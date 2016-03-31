@@ -1,0 +1,1 @@
+var angularStyle = angular.module('angularStyle',[]);
