@@ -7,10 +7,10 @@ body{
     margin:auto;
     padding:30px;
     background-color:$lightgrey;
-    #header{
-      position:relativeL
-    }
+
 
 }}
 
-
+body#header{
+  position:relative;
+}
